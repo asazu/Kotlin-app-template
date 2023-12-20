@@ -1,0 +1,8 @@
+{
+	"name": "Debian",
+	"image": "mcr.microsoft.com/devcontainers/base:bullseye",
+	"features": {
+		"ghcr.io/devcontainers-contrib/features/gradle-sdkman:2": {},
+		"ghcr.io/devcontainers-contrib/features/kotlin-sdkman:2": {}
+	}
+}
