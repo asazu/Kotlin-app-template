@@ -4,5 +4,13 @@
 	"features": {
 		"ghcr.io/devcontainers-contrib/features/gradle-sdkman:2": {},
 		"ghcr.io/devcontainers-contrib/features/kotlin-sdkman:2": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"mathiasfrohlich.Kotlin",
+				"vscjava.vscode-gradle"
+			]
+		}
 	}
 }
